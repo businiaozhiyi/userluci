@@ -1,0 +1,2 @@
+# userluci
+user luci config
