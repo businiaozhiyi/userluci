@@ -1,2 +1,1 @@
-# userluci
-user luci config
+hello
